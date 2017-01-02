@@ -1,3 +1,6 @@
 linear-regression/fake-ecommerce/analysis.ipynb linguist-vendored
 logistic-regression/titantic/analysis.ipynb linguist-vendored
 svm/iris/analysis.ipynb linguist-vendored
+nlp/spam-filter/spam_filter.ipynb linguist-vendored
+
+
